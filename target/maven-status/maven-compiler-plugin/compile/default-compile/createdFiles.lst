@@ -1,0 +1,6 @@
+pojo\Person.class
+application\ContactRepository.class
+application\PersonRepository.class
+pojo\Contact.class
+application\Application.class
+controller\ContactController.class
